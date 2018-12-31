@@ -6,9 +6,6 @@ import java.lang.IllegalArgumentException
 
 
 /**
- * Created by krishan on 19/10/17.
- * <p>
- * TicTacToe coordinates for each square #SquareCoordinates
  * -----------------
  * (0,0) (0,1) (0,2)
  * (1,0) (1,1) (1,2)
