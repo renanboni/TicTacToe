@@ -129,7 +129,7 @@ class TicTacToeView: View {
         invalidate(squares[x][y])
     }
 
-    fun drawYAtPosition(x: Int, y: Int) {
+    fun drawOAtPosition(x: Int, y: Int) {
         squareData[x][y] = moveY
         invalidate(squares[x][y])
     }
